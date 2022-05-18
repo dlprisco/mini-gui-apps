@@ -34,10 +34,4 @@ Once the requirements are installed, you can run the app using Python 3.
  
 The application window should appear.
 
-<br>
-<br>
-
-> If you think these apps are neat and want to learn more about
-PyQt in general, take a look at my [PyQt5 tutorial](https://www.learnpyqt.com)
-which covers everything you need to know to start building your own applications with PyQt.
-
+<br> 
