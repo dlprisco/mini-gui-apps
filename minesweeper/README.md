@@ -1,4 +1,4 @@
-# Moonsweeper — A minesweeper clone, on a moon with aliens, in PyQt.
+# Moonsweeper — A minesweeper clone in PyQt.
 
 Explore the mysterious moon of Q'tee without getting too close to the alien natives!
 
@@ -16,11 +16,7 @@ individually hold their state as mines, status and the
 adjacent count of mines. In this version, the mines are replaced with
 alien bugs (B'ug) but they could just as easily be anything else.
 
-![Moonsweeper](screenshot-minesweeper2.jpg)
-
-> If you think this app is neat and want to learn more about
-PyQt in general, take a look at my [free PyQt tutorials](https://www.learnpyqt.com)
-which cover everything you need to know to start building your own applications with PyQt.
+![Moonsweeper](screenshot-minesweeper2.jpg) 
 
 ## Code notes
 
